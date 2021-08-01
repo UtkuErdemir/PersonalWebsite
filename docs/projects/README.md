@@ -24,7 +24,7 @@ pageClass: projects-page
 
 <ProjectCard hideBorder=true>
 
-  ### Mobil Uygulama Geliştiricisi – 2016 / Günümüz
+  ### Fullstack Uygulama Geliştiricisi – 2016 / Günümüz
   #### Ajan.Net Bilişim Hizmetleri, İstanbul
  - Lise dönemimde (2016) firma üzerinde bulunan Java ile yazılmış mobil uygulamaya ek geliştirme desteği sağladım.
 
