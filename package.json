@@ -4,7 +4,6 @@
   "description": "Utku Erdemir Kişisel Web Sitesi",
   "author": "Utku Erdemir",
   "repository": "https://github.com/UtkuErdemir/MyWebSite.git",
-
   "scripts": {
     "clean": "rimraf dist/*",
     "dev": "vuepress dev docs",

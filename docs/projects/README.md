@@ -14,18 +14,19 @@ pageClass: projects-page
 
   ### Mobil ve Web Uygulama Geliştiricisi – 2015 / 2020
   #### Perpa Ticaret Merkezi, İstanbul
-  - Lisedeyken stajyer olarak başladım. İlk olarak Java ve Swift 1.0 ile mobil uygulamalarını geliştirdim. Üniversite birinci sınıftayken Cross Platform Mobil uygulama geliştirme yöntemlerinin daha gün yüzüne çıkmasıyla ve o ihtiyaçlarımızı karşılayabilmesi sebebiyle React-Native ile uygulamayı geliştirdim. 
+  - Lisedeyken stajyer olarak başladım. İlk olarak Java ve Swift 1.0 ile mobil uygulamalarını geliştirdim Üniversite birinci sınıftayken Cross Platform Mobil uygulama geliştirme yöntemlerinin daha gün yüzüne çıkmasıyla ve o ihtiyaçlarımızı karşılayabilmesi sebebiyle React-Native ile uygulamayı geliştirdim. 
   - İnternet sitelerinin ara yüzlerinin ve PHP ile yazılmış olan arka uç birimi kodlarının belirli bir kısmını geliştirdim.
-  - PerpaTV uygulamasını Ionic Framework’ün (AngularJS) birinci sürümü ile 2015’te geliştirdim.
+  - PerpaTV uygulamasını Ionic Framework’ün birinci sürümü ile 2015’te geliştirdim.
   - Bina içi navigasyonun belirli kısımlarında bulundum.
   - PerpaKiosk uygulamasının Kotlin ile geliştirilmesinde rol aldım fakat proje yarıda bırakıldı.
+
 </ProjectCard>
 
 <ProjectCard hideBorder=true>
 
   ### Mobil Uygulama Geliştiricisi – 2016 / Günümüz
   #### Ajan.Net Bilişim Hizmetleri, İstanbul
-  - Lise dönemimde (2016) firma üzerinde bulunan Java ile yazılmış mobil uygulamaya ek geliştirme desteği sağladım.
+ - Lise dönemimde (2016) firma üzerinde bulunan Java ile yazılmış mobil uygulamaya ek geliştirme desteği sağladım.
 
   - Liseden mezun olmamla beraber firma içerisindeki PostmanMobile uygulamasını Java ile yazılmış Native kod yerine Hybrid geliştirme yöntemi olan Ionic Framework’e (Angular 2+) geçirdim. Ionic’e geçirdiğimizde barkod yazıcı entegrasyonu ve arkaplanda konum takibi düzenlemeleri için Kotlin ve Swift dilleri ile projeye eklemeler yaptım.
 
@@ -42,6 +43,7 @@ pageClass: projects-page
   - KaranfilGroup mobil uygulamasının geliştirilmesinde Ionic Framework (Angular 2+) kullanarak etkin rol oynadım.
 
   - PostmanV2 (MegaPostman) uygulamasının geliştirilmesinde ve belirli düzen kararlarında rol almaktayım.
+
 </ProjectCard>
 
 <ProjectCard hideBorder=true>
