@@ -20,7 +20,7 @@ socials:
     link: https://www.twitter.com/Utku_Erdemir
 
 cv: /cv.docx
-bio: Yazılım Mühendisi / Endüstri Mühendisliği Öğrencisi
+bio: Yazılım Mühendisi / Endüstri Mühendisi
 email: utku.erdemir.ue@gmail.com
 ---
 
@@ -28,7 +28,7 @@ email: utku.erdemir.ue@gmail.com
 
 ## Hakkımda
 
-<div style="text-align: justify">Çocukluğumdan beri Bilişim Teknolojileriyle uğraşmaktayım. En başta bir heves olarak başlayan bu yolda yaklaşık beş yılı profesyonel yazılım geliştiricisi olmak üzere dokuz yıl geçirdim. Genel olarak mobil ve internet uygulamaları geliştirmekteyim. Bir çok mobil ve internet uygulamaları geliştirme tekonolojisini kullandım. Bu yüzden bilmediğim bir teknolojiye alışma sürecim normal birine kıyasla çok hızlıdır. Kendimi hem alaylı olarak yetiştirdiğim hem de konu hakkında liseden bu yana eğitimler almamdan ötürü gelişimim akranlarıma göre daha iyi ve fazla olmuştur. Hobilerim arasında müzik yapmak, bilgisayar oyunu oynamak, kitap okumak, spor yapmak ve yeni yerler keşfetmek vardır.</div>
+<div style="text-align: justify">Çocukluğumdan beri Bilişim Teknolojileriyle uğraşmaktayım. En başta bir heves olarak başlayan bu yolda yaklaşık beş yılı profesyonel yazılım geliştiricisi olmak üzere dokuz yıl geçirdim. Genel olarak mobil ve internet uygulamaları geliştirmekteyim. Bir çok mobil ve internet uygulamaları geliştirme tekonolojisini kullandım. Geçmişte bir çok yazılım teknolojisini kullanmamın faydasını iş hayatımda teknolojiler arası geçişte ve yeni projelere başlangıçta fazlasıyla görmekteyim. Yazılım geliştirme konusunda kullanılan teknolojilerin bir araç olduğunu ve bu araçların sürekli değişebilir olmalarından dolayı tekniklerin üzerinde durulması gerektiğini savunmaktayım. Hobilerim arasında müzik yapmak, bilgisayar oyunu oynamak, kitap okumak, spor yapmak ve yeni yerler keşfetmek vardır.</div>
 
 [→ Daha Fazlasını Göster](/about/)
 ## Eğitimim
@@ -38,7 +38,7 @@ email: utku.erdemir.ue@gmail.com
 - **Beykent Üniversitesi-Yazılım Mühendisliği** <br/>
 2016-2020 - *Not Ortalaması: 3.97 / 4.0*<br/><br/>
 - **Beykent Üniversitesi-Endüstri Mühendisliği** <br/>
-2017-Şimdi<br/>
+2017-2021 - *Not Ortalaması: 3.97 / 4.0*<br/>
 
 ## Yeteneklerim
 <table>
@@ -61,39 +61,46 @@ email: utku.erdemir.ue@gmail.com
 ## Deneyimim
 
 
-[→ Bütün Liste](/projects/)
+[→ Detaylı Liste](/projects/)
 
 
 <ProjectCard hideBorder=true>
 
-  ### Mobil ve Web Uygulama Geliştiricisi – 2015 / Günümüz
-  #### Perpa Ticaret Merkezi, İstanbul
-  - Lisedeyken stajyer olarak başladım. İlk olarak Java ile mobil uygulamalarını geliştirdim lakin ardından gereksinimlerin React-Native’in de biraz daha toparlanmasının ardından ona geçirdim.
-  - İnternet sitelerinin ara yüzlerinin ve arka plan kodlarının belirli bir kısmını yazdım.
-  - PerpaTV uygulamasını Ionic Framework’ün birinci sürümü ile 2015’te geliştirdim.
-  - Bina içi navigasyonun belirli kısımlarında bulundum.
-
-</ProjectCard>
-
-<ProjectCard hideBorder=true>
-
-  ### Mobil Uygulama Geliştiricisi – 2016 / Günümüz
+  ### Fullstack Uygulama Geliştiricisi – 2016 / Günümüz
   #### Ajan.Net Bilişim Hizmetleri, İstanbul
-  - Lisenin son yılında PostmanMobile uygulamasının Java ile yazılmış kodlarına belirli başlı eklerde bulundum.
-  - Liseden mezun olmamla beraber firma içerisindeki PostmanMobile uygulamasını Hybrid geliştirme yöntemi olan Ionic Framework’e geçirdim.
+  - Lise dönemimde (2016) firma üzerinde bulunan Java ile yazılmış mobil uygulamaya ek geliştirme desteği sağladım.
+
+  - Liseden mezun olmamla beraber firma içerisindeki PostmanMobile uygulamasını Java ile yazılmış Native kod yerine Hybrid geliştirme yöntemi olan Ionic Framework’e (Angular 2+) geçirdim. Ionic’e geçirdiğimizde barkod yazıcı entegrasyonu ve arkaplanda konum takibi düzenlemeleri için Kotlin ve Swift dilleri ile projeye eklemeler yaptım.
+
+  - PostmanZone isimli uygulamanın geliştirilmesinde VueJS, Node.js ve Neo4J teknolojilerini kullanarak etkin rol oynadım.
 
 </ProjectCard>
 
+## Ulusal Dergilerdeki Yayınlarım
+- **Başlık**: Avrupa Bilim ve Teknoloji Dergisi, Yeni Bir Güvenlik Katmanı Ekleyerek Mobil Hizmet Kullanıcısı Kimliğinin Güvenliğini Sağlamak 
+
+- **Yazarlar**: Büşra ÖZDENİZCİ KÖSE, Onur BÜK, Hacı Ali MANTAR, Vedat COSKUN, Utku ERDEMİR
+- **Yayım Tarihi**: 04-2021
 
 ## Katıldığım Yarışmalar
 
-- IEEE MadC - 2018 / 2019
-- IEEE Xtreme - 2018
-
+-	IEEE Xtreme 2018 – Beykent Üniversitesi
+-	IEEE MadC 2018 – Flip Projects
+-	IEEE MadC 2019  - Beykent Üniversitesi
+-	Uşak Üniversitesi TTO Proje Yarışması 2020 – Benimki Nerede
+-	IEEE Xtreme 2020 – Beykent Üniversitesi
+-	IEEE Türkiye Algoritma Yarışması 2020 – Endless Loop
 ## Katkıda Bulunduğum Projeler
 
-- **Empati (2018):** İşaret Dilinin Etkin bir şekilde öğretilmesini amaçlayan mobil uygulamadır. Arka uç birim, veri tabanı ve mobil uygulamanın geliştirilmesinde katkı sağladım ve bu uygulamayı geliştirdikten sonra IEEE MadC yarışmasına katıldık. 
-- **Benimki Nerede(2020):** Varlıkların kaybolmasını önlemek amacıyla Bluetooth teknolojisi kullanılıp geliştirilen mobil uygulamadır. Bütün geliştirmesinde bulundum ve projenin koordinasyonunu sağladım. 
+- **Empati V1:** İşaret Dilinin Etkin bir şekilde öğretilmesini amaçlayan mobil uygulamadır. Uygulamayı geliştirirken PHP (Slim Framework), Ionic Framework (Angular 2+) ve MySQL veri tabanı kullandık. Uygulamayı geliştirdikten sonra IEEE oluşumunun 2018 yılında olan MadC yarışmasına üç arkadaşımla beraber katıldık. Bu projenin geliştirilmesi, teknoloji kararlarının alınması ve kısmen de olsa yönetilmesinde etkin rol oynadım.
+
+- **Empati V2:** Empati V1’in devamı niteliğinde geliştirdiğimiz uygulamadır. Bu uygulamanın temel çıkış amacı önceki yarışmada yaptığımız hataları yapmamak ve ona uygun teknoloji seçimleri yapmaktır. Mobil uygulamanın ön uç biriminin geliştirilmesi için React-Native kullandık. Çünkü Ionic’in animasyonlarda bulunan performansı bizi tatmin etmemiştir. 2019’da IEEE oluşumunun yarışmasına ekip üyelerimizden sadece biri değişerek katılmış bulunduk.
+
+- **Benimki Nerede:** Varlıkların kaybolmasını önlemek amacıyla Bluetooth LE teknolojisi kullanılıp geliştirilen mobil uygulamadır. Projenin arka uç birimi GoLang, web ara yüzü ReactJS, veri tabanı MongoDB ve mobil uygulaması React-Native ile tasarlanmıştır. Uygulamanın geliştirme sürecinde her kısmında problem olan yerlerde çözümler ürettim. Kaba tabirle her bir bölümünde parmağım vardır. Proje ile Uşak TTO yarışmasına katıldık. Üniversite bitirme ödevimiz olarak da verdik. Projeyi finansman ve topluluk desteği yetersizliğinden sonlandırmak durumunda kaldık. 2021 yılında projenin yaptığı işlevleri birebir yerine getiren Galaxy Tag ve Apple AirTag ürünleri üretilmiştir.
+
+- **TrustedID:** Kullanıcının yetkilendirme sistemidir. Sistemin parmak izi ile doğrulama kısmının hem ön uç birimi hem de arka uç birimi geliştirilmesinde etkin rol oynadım bunları geliştirirken Java ve PHP dillerini kullandık. Sistemin nihai sonuca varmasıyla beraber sistemin geliştirilmesinde etkin rol oynadığımdan dolayı Lisans hayatım daha bitmeden Avrupa Bilim ve Teknoloji dergisinde makalemiz yayınlandı.
+
+- **Vatan Yağ CRM:** Vatan Bitkisel Atık Yağ Toplama firmasının saha içerisinde atık yağ toplayan çalışanlarının kullandığı mobil uygulamadır. Mobil uygulamanın geliştirilmesinde rol aldım. Kotlin diliyle geliştirdim. MAD araçları ve yöntemleri (Datastore, Architecture Components, Hilt, Navigation, Databinding, ViewBinding) kullandım. 
 
 
 <!-- Custom style for this page -->
