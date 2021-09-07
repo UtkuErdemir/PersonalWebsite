@@ -19,7 +19,7 @@ socials:
     icon: "/icons/twitter.svg"
     link: https://www.twitter.com/Utku_Erdemir
 
-cv: /cv.docx
+cv: /cv.pdf
 bio: Yazılım Mühendisi / Endüstri Mühendisi
 email: utku.erdemir.ue@gmail.com
 ---
