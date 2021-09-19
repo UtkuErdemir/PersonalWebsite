@@ -12,7 +12,7 @@ pageClass: projects-page
 
 <ProjectCard hideBorder=true>
 
-  ### Mobil ve Web Uygulama Geliştiricisi – 2015 / 2020
+  ### Mobil ve Web Uygulama Geliştiricisi – 2015 / 2020 - Eylül
   #### Perpa Ticaret Merkezi, İstanbul
   - Lisedeyken stajyer olarak başladım. İlk olarak Java ve Swift 1.0 ile mobil uygulamalarını geliştirdim Üniversite birinci sınıftayken Cross Platform Mobil uygulama geliştirme yöntemlerinin daha gün yüzüne çıkmasıyla ve o ihtiyaçlarımızı karşılayabilmesi sebebiyle React-Native ile uygulamayı geliştirdim. 
   - İnternet sitelerinin ara yüzlerinin ve PHP ile yazılmış olan arka uç birimi kodlarının belirli bir kısmını geliştirdim.
@@ -24,7 +24,7 @@ pageClass: projects-page
 
 <ProjectCard hideBorder=true>
 
-  ### Fullstack Uygulama Geliştiricisi – 2016 / Günümüz
+  ### Fullstack Uygulama Geliştiricisi – 2016 / 2021 - Ağustos
   #### Ajan.Net Bilişim Hizmetleri, İstanbul
  - Lise dönemimde (2016) firma üzerinde bulunan Java ile yazılmış mobil uygulamaya ek geliştirme desteği sağladım.
 

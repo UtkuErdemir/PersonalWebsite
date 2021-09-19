@@ -28,7 +28,7 @@ email: utku.erdemir.ue@gmail.com
 
 ## Hakkımda
 
-<div style="text-align: justify">Çocukluğumdan beri Bilişim Teknolojileriyle uğraşmaktayım. En başta bir heves olarak başlayan bu yolda yaklaşık beş yılı profesyonel yazılım geliştiricisi olmak üzere dokuz yıl geçirdim. Genel olarak mobil ve internet uygulamaları geliştirmekteyim. Bir çok mobil ve internet uygulamaları geliştirme tekonolojisini kullandım. Geçmişte bir çok yazılım teknolojisini kullanmamın faydasını iş hayatımda teknolojiler arası geçişte ve yeni projelere başlangıçta fazlasıyla görmekteyim. Yazılım geliştirme konusunda kullanılan teknolojilerin bir araç olduğunu ve bu araçların sürekli değişebilir olmalarından dolayı tekniklerin üzerinde durulması gerektiğini savunmaktayım. Hobilerim arasında müzik yapmak, bilgisayar oyunu oynamak, kitap okumak, spor yapmak ve yeni yerler keşfetmek vardır.</div>
+<div style="text-align: justify">Çocukluğumdan beri Bilişim Teknolojileriyle uğraşmaktayım. En başta bir heves olarak başlayan bu yolda yaklaşık altı yılı profesyonel yazılım geliştiricisi olmak üzere dokuz yıl geçirdim. Genel olarak mobil ve internet uygulamaları geliştirmekteyim. Bir çok mobil ve internet uygulamaları geliştirme tekonolojisini kullandım. Geçmişte bir çok yazılım teknolojisini kullanmamın faydasını iş hayatımda teknolojiler arası geçişte ve yeni projelere başlangıçta fazlasıyla görmekteyim. Yazılım geliştirme konusunda kullanılan teknolojilerin bir araç olduğunu ve bu araçların sürekli değişebilir olmalarından dolayı tekniklerin üzerinde durulması gerektiğini savunmaktayım. Hobilerim arasında müzik yapmak, bilgisayar oyunu oynamak, kitap okumak, spor yapmak ve yeni yerler keşfetmek vardır.</div>
 
 [→ Daha Fazlasını Göster](/about/)
 ## Eğitimim
@@ -66,7 +66,7 @@ email: utku.erdemir.ue@gmail.com
 
 <ProjectCard hideBorder=true>
 
-  ### Fullstack Uygulama Geliştiricisi – 2016 / Günümüz
+  ### Fullstack Uygulama Geliştiricisi – 2016 / 2021 - Ağustos
   #### Ajan.Net Bilişim Hizmetleri, İstanbul
   - Lise dönemimde (2016) firma üzerinde bulunan Java ile yazılmış mobil uygulamaya ek geliştirme desteği sağladım.
 
