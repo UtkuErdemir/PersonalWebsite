@@ -62,6 +62,15 @@ pageClass: projects-page
 
 </ProjectCard>
 
+<ProjectCard hideBorder=true>
+
+  ### Fullstack Uygulama Geliştiricisi & Yazılım Takımı Lideri – 2021 Eylül / Günümüz
+  #### Yukatech Bilişim A.Ş, İstanbul
+  -	2021 yılının Eylül ayında Fullstack Uygulama Geliştiricisi olarak Yukatel firmasının teknoloji geliştirme parçası olan Yukatech’te çalışmaya başladım. Bu sürecin ilk başlarında kişisel araç takip yazılımı olan Yukatrack’in geliştirilmesindeki bütün aşamalarda etkin olarak rol aldım. Bunun yanı sıra firma içi yazılımların geliştirilmesinde etkin rol aldım. Ardından 2021 yılında Yukatrack’in yanı sıra filo takip yazılımı olan Routecontrol’ün geliştirme sorumluluğunu da ekip olarak aldığımızdan o projede de etkin rol almaya başladım.
+  
+  - 2022 Ocak ayında firma bünyesindeki ayrılıklardan dolayı başarılarım ve bilgilerim sayesinde ekip liderliği pozisyonuna terfi ettim. Şu anda Yukatrack, Routecontrol ve firma içi yazılımların geliştirmesinde aktif rol aldığım gibi proje yönetimi ve teknoloji seçimi kararlarında da rol almaktayım. Firma içerisinde React-Native, ReactJS, PHP (Laravel & Lumen), NodeJS, GoLang, MongoDB ve MariaDB gibi teknoloji ve araçları kullandım.
+
+</ProjectCard>
 
 <style lang="stylus">
 
