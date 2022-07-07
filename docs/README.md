@@ -67,7 +67,7 @@ email: utku.erdemir.ue@gmail.com
 
 <ProjectCard hideBorder=true>
 
-  ### Fullstack Uygulama Geliştiricisi & Yazılım Takımı Lideri – 2021 Eylül / Günümüz
+  ### Fullstack Uygulama Geliştiricisi & Yazılım Takım Lideri – 2021 Eylül / -
   #### Yukatech Bilişim A.Ş, İstanbul
   -	2021 yılının Eylül ayında Fullstack Uygulama Geliştiricisi olarak Yukatel firmasının teknoloji geliştirme parçası olan Yukatech’te çalışmaya başladım. Bu sürecin ilk başlarında kişisel araç takip yazılımı olan Yukatrack’in geliştirilmesindeki bütün aşamalarda etkin olarak rol aldım. Bunun yanı sıra firma içi yazılımların geliştirilmesinde etkin rol aldım. Ardından 2021 yılında Yukatrack’in yanı sıra filo takip yazılımı olan Routecontrol’ün geliştirme sorumluluğunu da ekip olarak aldığımızdan o projede de etkin rol almaya başladım.
   
